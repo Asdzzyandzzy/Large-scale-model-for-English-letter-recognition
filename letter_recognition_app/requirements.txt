@@ -1,0 +1,6 @@
+numpy
+Pillow
+pygame
+torch
+torchvision
+tqdm
